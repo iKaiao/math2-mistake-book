@@ -6,13 +6,17 @@
 
 ## 使用
 
+在线访问：https://ikaiao.github.io/math2-mistake-book/
+
 访问 GitHub Pages 链接，或在浏览器中打开 index.html。全部公式、字体与题目数据已内嵌，无需构建和外部依赖。
 
 笔记和掌握记录保存在当前浏览器，不会上传到 GitHub。更换浏览器或设备时，使用页面上的导出/导入笔记功能。
 
 ## GitHub Pages
 
-在仓库 Settings → Pages 中，选择 Deploy from a branch，发布 main 分支的 / (root) 目录。
+本仓库已通过 GitHub Pages 发布，来源为 gh-pages 分支的 / (root) 目录。
+
+main 分支保留网站源文件。修改并提交后，可用 `git push origin main main:gh-pages` 同时更新两个分支，GitHub Pages 会自动重新发布。
 
 ## 排版许可
 
