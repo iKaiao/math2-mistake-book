@@ -6,7 +6,9 @@
 
 ## 使用
 
-在线访问：https://ikaiao.github.io/math2-mistake-book/
+在线访问：https://math.mikus.cc/
+
+GitHub Pages 入口：https://ikaiao.github.io/math2-mistake-book/
 
 访问 GitHub Pages 链接，或在浏览器中打开 index.html。全部公式、字体与题目数据已内嵌，无需构建和外部依赖。
 
